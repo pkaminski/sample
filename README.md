@@ -10,3 +10,5 @@ Here's a few checkboxes:
 [ ] But only when they're green
 
 This was a sample from Monty Python's latest album, pleasure of the Norwegian dance.
+
+We apologize for this interruption.
