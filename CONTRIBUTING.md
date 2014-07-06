@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Contributing to Astropy
 =======================
 
@@ -45,3 +46,6 @@ include the following:
   only time that you do not need to include a changelog entry is for changes
   that fix bugs introduced in the developer version and which are not present
   in the stable versions.
+=======
+None shall pass.
+>>>>>>> 4989dae (Create CONTRIBUTING.md)
