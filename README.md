@@ -1,6 +1,8 @@
 sample
 ======
 
+A change in the master branch.
+
 A sample repo for trying out events.
 
 Here's a few checkboxes:
