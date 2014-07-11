@@ -48,4 +48,8 @@ include the following:
   in the stable versions.
 =======
 None shall pass.
+<<<<<<< HEAD
 >>>>>>> 4989dae (Create CONTRIBUTING.md)
+=======
+I mean it!
+>>>>>>> b339e9d (Update CONTRIBUTING.md)
