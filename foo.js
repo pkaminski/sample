@@ -1,4 +1,5 @@
 function() {
 	// tab indent
 	return 'foo!';
-}  // no newline
+	// trailing spaces   
+}  // no newlinex
