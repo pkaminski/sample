@@ -9,12 +9,6 @@ A change in the master.
 A simple sample repo for trying out events.
 >>>>>>> 579b390 (Update README.md)
 
-Here's a few checkboxes:
-[ ] I like traffic lights
-[ ] I like traffic lights
-[ ] I like traffic lights
-[ ] But only when they're red
-
 This was a sample from Monty Python's latest album, pleasures of the Norwegian folk dance.
 
 We apologize for this interruption.
