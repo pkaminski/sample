@@ -142,6 +142,11 @@ def test_coord_init_string():
     assert allclose(sc3.ra, Angle(120 * u.deg))
     assert allclose(sc3.dec, Angle(-5.01 * u.deg))
 
+    sc4 = SkyCoord('J080000.0-050036.0', unit=(u.hour, u.deg), frame='icrs')
+    assert isinstance(sc4, SkyCoord)
+    assert allclose(sc4.ra, Angle(120 * u.deg))
+    assert allclose(sc4.dec, Angle(-5.01 * u.deg))
+
 
 def test_coord_init_unit():
     """
