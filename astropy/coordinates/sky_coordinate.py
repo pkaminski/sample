@@ -19,6 +19,8 @@ from .representation import (BaseRepresentation, SphericalRepresentation,
 
 __all__ = ['SkyCoord']
 
+PMRE = re.compile('(\+|\-)')
+
 
 # Define a convenience mapping.  This is used like a module constants
 # but is actually dynamically evaluated.
@@ -918,7 +920,7 @@ def _parse_coordinate_arg(coords, frame, units):
                 if len(coord1) == 6:
                     coord = (' '.join(coord1[:3]), ' '.join(coord1[3:]))
                 elif len(coord1) > 2:
-                    coord = re.split('(\+|\-)', coord)
+                    coord = PMRE.split(coord)
                     coord = (coord[0], ' '.join(coord[1:]))
                 else:
                     coord = coord1
