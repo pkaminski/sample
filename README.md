@@ -11,5 +11,4 @@ We apologize for this interruption.
 We apologize for the apology.  Ahem.
 We like llamas.
 
-		Two tabs!
-And no newline
+I'm COMMITTED to making this work1
