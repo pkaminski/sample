@@ -3,7 +3,7 @@ sample
 
 A change in the master.
 
-A simple sample repo for trying out events.
+A simple sample repo for trying out events. Here's another edot.
 
 This was a sample from Monty Python's latest album, pleasures of the Norwegian folk dance.
 
