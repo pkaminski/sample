@@ -6,8 +6,12 @@ A sample repo for trying out events.
 =======
 A change in the master.
 
+<<<<<<< HEAD
 A simple sample repo for trying out events.
 >>>>>>> 579b390 (Update README.md)
+=======
+A simple sample repo for trying out events. Here's another edot.
+>>>>>>> d557331 (Update README.md)
 
 This was a sample from Monty Python's latest album, pleasures of the Norwegian folk dance.
 
