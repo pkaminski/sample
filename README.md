@@ -1,9 +1,9 @@
 sample
 ======
 
-A change in the master.
+A change   in the   master.
 
-A simple sample repo for trying out events. Here's another edot.
+A simplesample repo for trying out events. Here's another edot.
 
 This was a sample from Monty Python's latest album, pleasures of the Norwegian folk dance.
 
@@ -13,5 +13,5 @@ We like llamas.
 
 I'm COMMITTED to making this work1!11!!  Arrrgh
 Let's make another revision
-More more more edits
+  More more more    edits
 More revision. Why not.  Let's make another change. /fii
