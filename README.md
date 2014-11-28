@@ -3,6 +3,7 @@ sample
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 A sample repo for trying out events.
 =======
 A change in the master.
@@ -29,3 +30,6 @@ I'm COMMITTED to making this work1!11!!  Arrrgh
 Let's make another revision
   More more more    edits
 More revision. Why not.  Let's make another change. /fii
+=======
+A whole new world.
+>>>>>>> bb3261c (Update README.md)
