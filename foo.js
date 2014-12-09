@@ -3,4 +3,5 @@ function() {
 	// tab indent
 	return 'qux!';
 	// trailing spaces   
+	console.log('unreachable!');
 }  // no newlinex
