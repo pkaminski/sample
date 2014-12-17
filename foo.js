@@ -1,6 +1,6 @@
 function() {
-	var a = 'Hello'.replace(/H/, 'Z');
+	var a = 'Hello world'.replace(/H/, 'Z');
 	// tab indent
 	return 'qux!';
-	// trailing spaces   
+	// trailing spaces
 }  // no newlinex
