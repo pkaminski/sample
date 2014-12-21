@@ -36,4 +36,8 @@ A whole new world.
 >>>>>>> bb3261c (Update README.md)
 =======
 For you and meeeeeeeeeeeeeee.
+<<<<<<< HEAD
 >>>>>>> 1837e87 (Update README.md)
+=======
+The end.
+>>>>>>> 0a31898 (Update README.md)
