@@ -32,4 +32,8 @@ Let's make another revision
 More revision. Why not.  Let's make another change. /fii
 =======
 A whole new world.
+<<<<<<< HEAD
 >>>>>>> bb3261c (Update README.md)
+=======
+For you and meeeeeeeeeeeeeee.
+>>>>>>> 1837e87 (Update README.md)
