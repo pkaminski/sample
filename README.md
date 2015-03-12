@@ -1,7 +1,7 @@
 sample
 ======
 
-A change   in the   master.
+The 7th branch.
 
 A simplesample repo for trying out events. Here's another edot.
 
