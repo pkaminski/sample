@@ -37,7 +37,11 @@ A whole new world.
 =======
 For you and meeeeeeeeeeeeeee.
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1837e87 (Update README.md)
 =======
+=======
+Unbelievable sights.
+>>>>>>> 14fb86b (Update README.md)
 The end.
 >>>>>>> 0a31898 (Update README.md)
