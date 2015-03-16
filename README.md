@@ -48,6 +48,7 @@ Unbelievable sights.
 Indescribable feeeeeelings.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0ff9af0 (Feelings)
 =======
 Soaring.
@@ -55,5 +56,8 @@ Soaring.
 =======
 Soaring.  Tumbling.
 >>>>>>> 63faeb4 (Foooo)
+=======
+Soaring.  Tumbling.  Freewheeling.
+>>>>>>> ffc459b (Scooooopes!)
 The end.
 >>>>>>> 0a31898 (Update README.md)
