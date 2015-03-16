@@ -46,6 +46,10 @@ Unbelievable sights.
 >>>>>>> 14fb86b (Update README.md)
 =======
 Indescribable feeeeeelings.
+<<<<<<< HEAD
 >>>>>>> 0ff9af0 (Feelings)
+=======
+Soaring.
+>>>>>>> 976b8cc (Update README.md)
 The end.
 >>>>>>> 0a31898 (Update README.md)
