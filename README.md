@@ -42,6 +42,10 @@ For you and meeeeeeeeeeeeeee.
 =======
 =======
 Unbelievable sights.
+<<<<<<< HEAD
 >>>>>>> 14fb86b (Update README.md)
+=======
+Indescribable feeeeeelings.
+>>>>>>> 0ff9af0 (Feelings)
 The end.
 >>>>>>> 0a31898 (Update README.md)
