@@ -9,4 +9,4 @@ Soaring.  Tumbling.  Freewheeling.
 Through an endless diamond sky.
 The end.  Woo!
 
-print 'GENERATED FILE DO NOT EDIT'
+/* GENERATED FILE DO NOT EDIT */
