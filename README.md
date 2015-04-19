@@ -9,4 +9,3 @@ Soaring.  Tumbling.  Freewheeling.
 Through an endless diamond sky.
 The end.  Woo!
 
-/* GENERATED FILE DO NOT EDIT */
