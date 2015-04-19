@@ -1,6 +1,8 @@
 sample
 ======
 
+A song:
+
 A whole new world.
 For you and meeeeeeeeeeeeeee.
 Unbelievable sights.
