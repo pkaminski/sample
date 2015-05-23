@@ -1,5 +1,5 @@
 =======
-Astropy
+Astropie
 =======
 
 .. image:: https://pypip.in/v/astropy/badge.png
