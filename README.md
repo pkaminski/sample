@@ -60,4 +60,9 @@ Soaring.  Tumbling.
 Soaring.  Tumbling.  Freewheeling.
 >>>>>>> ffc459b (Scooooopes!)
 The end.
+<<<<<<< HEAD
 >>>>>>> 0a31898 (Update README.md)
+=======
+
+Will this break mergeability?
+>>>>>>> 54793d8 (Update README.md)
