@@ -69,4 +69,8 @@ Will this break mergeability?
 >>>>>>> 54793d8 (Update README.md)
 =======
 Let's break mergeability again!
+<<<<<<< HEAD
 >>>>>>> 75432b2 (Update README.md)
+=======
+And again!
+>>>>>>> c39d7bd (Update README.md)
