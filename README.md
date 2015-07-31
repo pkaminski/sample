@@ -7,3 +7,7 @@ Unbelievable sights.
 Indescribable feeeeeelings.
 Soaring.  Tumbling.  Freewheeling.
 The end.
+
+A new beginning.
+A new hope.
+Hooooope.
