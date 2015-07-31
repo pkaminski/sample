@@ -65,4 +65,8 @@ The end.
 =======
 
 Will this break mergeability?
+<<<<<<< HEAD
 >>>>>>> 54793d8 (Update README.md)
+=======
+Let's break mergeability again!
+>>>>>>> 75432b2 (Update README.md)
