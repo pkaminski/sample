@@ -1,4 +1,4 @@
-def main():
+def main(  ):
   for x in args:
-    print(x)
+  print(x)
 
