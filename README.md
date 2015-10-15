@@ -4,6 +4,7 @@ sample
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 A sample repo for trying out events.
 =======
 A change in the master.
@@ -31,6 +32,10 @@ Let's make another revision
   More more more    edits
 More revision. Why not.  Let's make another change. /fii
 =======
+=======
+Let's break other branches.
+
+>>>>>>> 2b338b4 (Breaking change.)
 A whole new world.
 <<<<<<< HEAD
 >>>>>>> bb3261c (Update README.md)
