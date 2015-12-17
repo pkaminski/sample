@@ -13,3 +13,5 @@ The end.
 Will this break mergeability?
 Let's break mergeability again!
 And again!
+
+Let's test mergeability queuing.
