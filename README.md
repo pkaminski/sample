@@ -78,4 +78,9 @@ Let's break mergeability again!
 >>>>>>> 75432b2 (Update README.md)
 =======
 And again!
+<<<<<<< HEAD
 >>>>>>> c39d7bd (Update README.md)
+=======
+
+Let's test mergeability queuing.
+>>>>>>> 0e93070 (Update README.md)
