@@ -17,3 +17,4 @@ And again!
 Let's test mergeability queuing.
 A first line added.
 Second line incoming.
+Third line.  That's it.
