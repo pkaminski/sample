@@ -2,6 +2,7 @@ sample
 ======
 
 Let's break other branches.
+Let's rebase other branches.
 
 A whole new world.
 For you and meeeeeeeeeeeeeee.
