@@ -84,4 +84,9 @@ And again!
 =======
 
 Let's test mergeability queuing.
+<<<<<<< HEAD
 >>>>>>> 0e93070 (Update README.md)
+=======
+
+Let's make a new PR.
+>>>>>>> ea4bbb1 (Update README.md)
