@@ -17,4 +17,4 @@ And again!
 
 Let's test mergeability queuing.
 
-Let's make a new PR.
+Let's make a new PR.  And let's update it.
