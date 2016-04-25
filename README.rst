@@ -1,5 +1,5 @@
 =======
-Astropies
+Astropies are nice
 =======
 
 .. image:: https://pypip.in/v/astropy/badge.png
