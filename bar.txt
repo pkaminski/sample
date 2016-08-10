@@ -6,3 +6,5 @@ Wheee!
 
 Bogus edit.
 Another bogus edit.
+
+  /// Evaluates to `true` if system is direct feedthrough and `false` otherwise.
