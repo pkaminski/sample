@@ -1,1 +1,2 @@
 **/*.rst -diff
+**/*.c +diff
