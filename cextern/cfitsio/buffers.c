@@ -5,6 +5,8 @@
 /*  Astrophysic Science Archive Research Center (HEASARC) at the NASA      */
 /*  Goddard Space Flight Center.                                           */
 
+// Foo foo
+
 #include <string.h>
 #include <stdlib.h>
 #include "fitsio2.h"
