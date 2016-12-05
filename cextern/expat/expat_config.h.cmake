@@ -1,4 +1,4 @@
-/* expat_config.h.in.  Generated from configure.in by autoheader.  */
+/* expat_config.h.in.  Generated from configure.in by autoheader.  Foo. */
 
 /* 1234 = LIL_ENDIAN, 4321 = BIGENDIAN */
 #cmakedefine BYTEORDER @BYTEORDER@
