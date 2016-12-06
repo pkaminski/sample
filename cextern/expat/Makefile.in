@@ -18,6 +18,8 @@
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN EXPAT.
 #
 
+# Bogus
+
 SHELL = @SHELL@
 
 srcdir = @srcdir@
