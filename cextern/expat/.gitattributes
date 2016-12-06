@@ -1,2 +1,2 @@
 *.cmake diff=cmakediff
-win32/*.txt -diff
+/win32/*.txt -diff
