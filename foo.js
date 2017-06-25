@@ -1,4 +1,4 @@
-function() {
+function foo() {
 	var a = 'Hello'.replace(/H/, 'Z');
 	// tab indent
 	return 'quxxxer!';
