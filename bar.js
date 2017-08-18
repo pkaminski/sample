@@ -1,6 +1,6 @@
 function() {
 	var a = 'Hello'.replace(/H/, 'Z');
-	// tab indent, not spaces nerd
+	console.log(`hello ${foo ? `Mr ${name}` : 'there'}`);
 	return 'foo!';
 	return 'not me!';
 }
