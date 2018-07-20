@@ -1,7 +1,7 @@
 Contributing to Astropy
 =======================
 
-Some changes that we'll try to merge.
+Some changes that we'll try to merge.  I guess that worked?
 
 Reporting Issues
 ----------------
