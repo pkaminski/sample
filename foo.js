@@ -3,4 +3,5 @@ function() {
 	// tab indent
 	return 'quxxxer!';
 	// trailing spaces   
+	"further changes"
 }  // no newlinex
