@@ -7,3 +7,6 @@ Wheee!
 Bogus edit.
 Another bogus edit.
 Let's make an edit.
+
+
+An edit after renaming.
