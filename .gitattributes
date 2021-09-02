@@ -1,1 +1,3 @@
 **/*.rst -diff
+**/*.c -diff
+**/expat/**/*.c diff
