@@ -1,9 +1,1 @@
-foo foo foo
-
-Fooing all the way
-So much fun!
-Wheee!
-
-Bogus edit.
-Another bogus edit.
-Let's make an edit.
+This is the new bar.txt.
