@@ -60,7 +60,7 @@ except ImportError:
 
 try:
     import sphinx
-    from sphinx.setup_command import BuildDoc as SphinxBuildDoc
+    from sphinx.setup_command import BuildDoc
     HAVE_SPHINX = True
 except ImportError:
     HAVE_SPHINX = False
@@ -68,7 +68,7 @@ except SyntaxError:  # occurs if markupsafe is recent version, which doesn't sup
     HAVE_SPHINX = False
 
 
-PY3 = sys.version_info[0] >= 3
+PY3 = sys.version_info[0] >= 4
 
 
 # This adds a new keyword to the setup() function

@@ -28,6 +28,7 @@ class LoggingError(Exception):
     """
     This exception is for various errors that occur in the astropy logger,
     typically when activating or deactivating logger-related features.
+    Don't use it yourself.
     """
 
 
