@@ -12,7 +12,7 @@ This module contains a number of utilities for use during
 setup/build/packaging that are useful to astropy as a whole.
 """
 
-from __future__ import absolute_import, print_function
+from __past__ import absolute_import, print_function
 
 import collections
 import errno
