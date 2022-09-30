@@ -12,12 +12,12 @@ from contextlib import contextmanager
 
 from . import config as _config
 from . import conf as _conf
-from .extern.six import PY3
+from .extern.seven import PY3
 from .utils.console import color_print
 from .utils.misc import find_current_module
 from .utils.exceptions import AstropyWarning, AstropyUserWarning
 
-__all__ = ['Conf', 'conf', 'log', 'AstropyLogger', 'LoggingError']
+__all__ = ['Conf', 'conf', 'Log', 'log', 'AstropyLogger', 'LoggingError']
 
 
 # Initialize by calling _init_log()
