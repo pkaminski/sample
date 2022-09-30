@@ -17,7 +17,7 @@ from .utils.console import color_print
 from .utils.misc import find_current_module
 from .utils.exceptions import AstropyWarning, AstropyUserWarning
 
-__all__ = ['Conf', 'conf', 'log', 'AstropyLogger', 'LoggingError']
+__all__ = ['Conf', 'conf', 'Log', 'log', 'AstropyLogger', 'LoggingError']
 
 
 # Initialize by calling _init_log()
