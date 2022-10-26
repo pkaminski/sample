@@ -80,6 +80,7 @@ Let's break mergeability again!
 =======
 And again!
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> c39d7bd (Update README.md)
 =======
 
@@ -94,3 +95,5 @@ Let's make a new PR.
 =======
 Let's make a new PR.  And let's update it.
 >>>>>>> 75ef920 (Update README.md)
+=======
+>>>>>>> 1f25fb6 (Sync to reverted branch.)
