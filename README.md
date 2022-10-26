@@ -14,7 +14,3 @@ The end.
 Will this break mergeability?
 Let's break mergeability again!
 And again!
-
-Let's test mergeability queuing.
-
-Let's make a new PR.  And let's update it.
