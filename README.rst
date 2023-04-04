@@ -2,12 +2,6 @@
 Astropies are very nice indeed
 =======
 
-.. image:: https://pypip.in/v/astropy/badge.png
-    :target: https://pypi.python.org/pypi/astropy
-
-.. image:: https://pypip.in/d/astropy/badge.png
-    :target: https://pypi.python.org/pypi/astropy
-
 Astropy (http://astropy.org/) is a package intended to contain much of
 the core functionality and some common tools needed for performing
 astronomy and astrophysics with Python.
