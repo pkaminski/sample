@@ -1,0 +1,26 @@
+diff --git a/src/view/reviews/diff/diff-viewer.vue b/src/view/reviews/diff/diff-viewer.vue
+index 7fb099a3..7f84b1e1 100644
+--- a/src/view/reviews/diff/diff-viewer.vue
++++ b/src/view/reviews/diff/diff-viewer.vue
+@@ -227,6 +227,10 @@ Ported by Fabrício Tavares de Oliveira
+   left: 0;
+ }
+ 
++.leading.trailing:before {
++  content: "\00b7";
++}
++
+   
+ .no-newline {  
+   font-family: Icons-regular;
+ }
+@@ -235,4 +239,9 @@ Ported by Fabrício Tavares de Oliveira
+ .go.line.content .tab:before {
+   content: "";
+ }
++
++/* Languages where a leading space is normal */
++.diff.line.content .leading.trailing:before {
++  content: " ";
++}
+ </style>
