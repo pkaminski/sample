@@ -32,3 +32,6 @@ Test Coverage Status
 
 .. image:: https://coveralls.io/repos/astropy/astropy/badge.png
     :target: https://coveralls.io/r/astropy/astropy
+
+
+An edit
