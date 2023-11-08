@@ -1,4 +1,4 @@
 # Sample code owners file
 
-/astropy/ pkaminski pkaminski-test
-tests/
+/astropy/** pkaminski pkaminski-test
+tests/*
