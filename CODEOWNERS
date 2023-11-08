@@ -1,0 +1,4 @@
+# Sample code owners file
+
+/astropy/ pkaminski pkaminski-test
+tests/
