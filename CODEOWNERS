@@ -9,4 +9,4 @@
 # multiline comment that goes on and on about all kinds
 # of stuff.
 tests/
-angles @pkaminski-test
+angles.py @pkaminski-test
