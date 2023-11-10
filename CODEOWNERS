@@ -1,5 +1,12 @@
 # Sample code owners file
 
+# Default for everything
 * @pkaminski
+
 /astropy/ @pkaminski-test
+
+# Astropy and tests, but this is a long
+# multiline comment that goes on and on about all kinds
+# of stuff.
 tests/
+angles @pkaminski-test
