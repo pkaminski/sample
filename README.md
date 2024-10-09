@@ -16,3 +16,7 @@ Let's break mergeability again!
 And again!
 
 Eidt.
+            ┌─────────────────────────┐
+            ┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐  nav/approach
+            ▲─┘└─┘└─┘└─┘└─┘└─┘└─┘└─┘└─┘  side of lane
+            ├─────────────────────────┘
