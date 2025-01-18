@@ -15,7 +15,7 @@ Will this break mergeability?
 Let's break mergeability again!
 And again!
 
-Eidt.
+Edit.
             ┌─────────────────────────┐
             ┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐  nav/approach
             ▲─┘└─┘└─┘└─┘└─┘└─┘└─┘└─┘└─┘  side of lane
