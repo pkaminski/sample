@@ -1,6 +1,8 @@
 sample
 ======
 
+Base change.
+
 Let's break other branches.
 Let's rebase other branches.
 
