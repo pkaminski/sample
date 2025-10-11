@@ -1,0 +1,4 @@
+This file has CRLF on every line
+Yes every one
+NO exceptions
+Except this line, which has a LF only
