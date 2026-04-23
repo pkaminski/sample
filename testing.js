@@ -3,6 +3,6 @@ class Testing {
   }
   
   get foo() {
-    return 'foo';
+    return 'bar';
   }
 }
